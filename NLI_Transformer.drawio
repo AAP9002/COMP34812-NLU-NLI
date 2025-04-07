@@ -11,10 +11,10 @@
           <mxGeometry x="-90" y="120" width="850" height="300" as="geometry" />
         </mxCell>
         <mxCell id="mKvuBzMbrmaQoShO6H8n-75" value="Semantic Textual Similarity" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="270" y="440" width="490" height="520" as="geometry" />
+          <mxGeometry x="270" y="430" width="490" height="530" as="geometry" />
         </mxCell>
         <mxCell id="mKvuBzMbrmaQoShO6H8n-74" value="Roberta Large NLI" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="440" width="350" height="520" as="geometry" />
+          <mxGeometry x="-90" y="430" width="350" height="530" as="geometry" />
         </mxCell>
         <mxCell id="mKvuBzMbrmaQoShO6H8n-73" value="Embeddings" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-90" y="970" width="850" height="90" as="geometry" />
