@@ -105,7 +105,7 @@ This model is based upon a ensemble of RoBERTa models that was fine-tuned using 
 
 <!-- This should describe any evaluation data used (e.g., the development/validation set provided). -->
 
-A subset of the development set provided, amounting to 6K+ pairs.
+A subset of the development set provided, amounting to 5.3k+ pairs for validation and 1.3k+ for testing.
 
 #### Metrics
 
@@ -119,7 +119,29 @@ A subset of the development set provided, amounting to 6K+ pairs.
 
 ### Results
 
-The Ensemble Model obtained an F1-score of 91% and an accuracy of 91%.
+
+      The Ensemble Model obtained an F1-score of 91% and an accuracy of 91%.
+
+      Validation set
+      - Macro Precision: 91.0%
+      - Macro Recall: 91.0%
+      - Macro F1-score: 91.0%
+      - Weighted Precision: 91.0%
+      - Weighted Recall: 91.0%
+      - Weighted F1-score: 91.0%
+      - accuracy: 91.0%
+      - Support: 5389
+
+      Test set
+      - Macro Precision: 91.0%
+      - Macro Recall: 91.0%
+      - Macro F1-score: 91.0%
+      - Weighted Precision: 91.0%
+      - Weighted Recall: 91.0%
+      - Weighted F1-score: 91.0%
+      - accuracy: 91.0%
+      - Support: 1347
+      
 
 ## Technical Specifications
 
