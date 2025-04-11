@@ -17,6 +17,10 @@ Approach C: Transformer Ensemble
 - Demo Notebook: [NLU_Method_C/NLI_Transformer_demo.ipynb](/NLU_Method_C/NLI_Transformer_demo.ipynb)
 - Training Notebook: [NLU_Method_C/Transformer_Train_and_Evaluate.ipynb](/NLU_Method_C/Transformer_Train_and_Evaluate.ipynb)
 
+# Poster
+
+Our approach and results are presented on our poster: [NLU Presentation Poster.pdf](NLU Presentation Poster.pdf)
+
 # Running the Demo Scripts
 
 Both demo scripts are designed for Google Colab and will automatically install required Python libraries.
