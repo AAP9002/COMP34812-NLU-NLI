@@ -22,7 +22,7 @@ This is a classification model that was trained to detect whether a premise and 
 
 <!-- Provide a longer summary of what this model is. -->
 
-This model is based upon a ensemble of RoBERTa models that was fine-tuned using over 24K premise-hypothesis pairs from the shared task dataset for Natural Language Inference (NLI).
+This model is based upon the Enhanced LSTM for Natural Language Inference architecture using BILSTM instead of LSTM trained on over 24K premise-hypothesis pairs from the shared task dataset for Natural Language Inference (NLI).
 
 - **Developed by:** Alan Prophett and Zac Curtis
 - **Language(s):** English
