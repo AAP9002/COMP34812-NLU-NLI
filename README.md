@@ -19,7 +19,7 @@ Approach C: Transformer Ensemble
 
 # Poster
 
-Our approach and results are presented on our poster: [NLU Presentation Poster.pdf](NLU Presentation Poster.pdf)
+Our approach and results are presented on our poster: [NLU Presentation Poster.pdf](./NLU%20Presentation%20Poster.pdf)
 
 # Running the Demo Scripts
 
