@@ -9,7 +9,7 @@ Approach B: BiLSTM
 - A bidirectional LSTM network that captures contextual dependencies in both directions.
 - Model Card: [View Model Card](/NLU_Method_B/my_model_card.md)
 - Demo Notebook: [NLU_Method_B/BILSTM_Demo.ipynb](/NLU_Method_B/BILSTM_Demo.ipynb)
-- Training Notebook: [NLU_Method_B/BILSTM_RNN_Trainer.ipynb](/NLU_Method_B/BILSTM_RNN_Trainer.ipynb)
+- Training Notebook: [NLU_Method_B/BILSTM_RNN_Trainer.ipynb](/NLU_Method_B/BILSTM_RNN_TrainandEvaluate.ipynb)
 
 Approach C: Transformer Ensemble
 - An ensemble of transformer-based models leveraging the strength of multiple pre-trained language models.
